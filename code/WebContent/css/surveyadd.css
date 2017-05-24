@@ -1,0 +1,26 @@
+.left
+{
+    float: left;
+    width: 20%;
+}
+.center
+{
+    float: left;
+    width: 80%;
+    padding: 0px 20px 0px 20px;
+}
+.end
+{
+	position: fixed;
+	left: 45%;
+	bottom: 0%;
+}
+.icheckinput
+{
+	width: 90%!important;
+	float: right;
+}
+.chose
+{
+	height: 35px;
+}

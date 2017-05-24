@@ -1,0 +1,38 @@
+.top
+{
+	margin-bottom: 70px;
+}
+.top img
+{
+	width: 100px;
+	border: solid 1px;
+	border-radius: 25px;
+	float: left;
+	border-color: lightblue;
+   margin-right: 25px;
+}
+.top p
+{
+	margin: 20px;
+}
+.left
+{
+    float: left;
+    width: 20%;
+}
+.center
+{
+    float: left;
+    width: 80%;
+    padding: 0px 20px 0px 20px;
+}
+.editpassinput
+{
+	 margin: 20px 70px;
+    width: 70%!important;
+}
+#inputfile
+{
+	width:0px;
+	height:0px;
+}

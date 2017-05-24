@@ -1,0 +1,11 @@
+.left
+{
+    float: left;
+    width: 20%;
+}
+.center
+{
+    float: left;
+    width: 80%;
+    padding: 0px 20px 0px 20px;
+}

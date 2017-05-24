@@ -1,0 +1,41 @@
+#form_div
+{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 80px 0px;
+    margin: 100px auto;
+    width: 50%;
+    text-align: center;
+    padding: 50px 0px;
+    line-height: 120px;
+}
+#form_div .input_text
+{
+    border-radius: 25px;
+    padding: 10px;
+    width: 50%;
+    height: 35px;
+    text-align: center;
+    font-size: xx-large;
+    border-style: solid;
+}
+#form_div .input_button
+{
+    width: 20%;
+    height: 50px;
+    border: none;
+    background-color: deepskyblue;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#form_div .input_button:hover
+{
+    background-color: powderblue;
+    color: black;
+}
+#pho
+{
+	color: darkgray;
+	margin-left: 10%;
+}

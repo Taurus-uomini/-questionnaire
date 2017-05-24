@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<item>
+		<title>用户管理</title>
+		<uri>/javaEEdzy/user/index.do</uri>
+		<power>1</power>
+	</item>
+	<item>
+		<title>用户中心</title>
+		<uri>/javaEEdzy/my/index.do</uri>
+		<power>2</power>
+	</item>
+	<item>
+		<title>问卷管理</title>
+		<uri>/javaEEdzy/survey/index.do</uri>
+		<power>2</power>
+	</item>
+	<item>
+		<title>网站点击统计</title>
+		<uri>/javaEEdzy/showwebchick.do</uri>
+		<power>2</power>
+	</item>
+</menu>
